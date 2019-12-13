@@ -4,6 +4,7 @@
 #define MAX_VERTICES 20
 #define TRUE 1
 #define FALSE 0
+
 int visited[MAX_VERTICES];
 typedef struct GraphType {
 	int n;
