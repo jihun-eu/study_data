@@ -33,5 +33,8 @@
     <ClCompile Include="DFS_list.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Kruskal_algorithm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
